@@ -1,4 +1,4 @@
-How to reach me: Discord (VoTym#8245), Telegram (https://t.me/VoTym), Email (vova.tymchenko@gmail.com)
+How to reach me: LinkedIn (https://www.linkedin.com/in/volodymyr-tymchenko/), Email (vova.tymchenko@gmail.com), Discord (VoTym#8245)
 
 <!---
 VovaTymchenko/VovaTymchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
