@@ -1,5 +1,5 @@
-LinkedIn (https://www.linkedin.com/in/volodymyr-tymchenko/)
-Email (vova.tymchenko@gmail.com)
+LinkedIn (https://www.linkedin.com/in/volodymyr-tymchenko/),
+Email (vova.tymchenko@gmail.com),
 Discord (votym)
 
 <!---
